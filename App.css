@@ -1,0 +1,265 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+h2 {
+    color: darkslategray;
+}
+
+.mb-3 {
+    padding-left: 20%;
+    text-align: center;
+}
+
+.col-sm-10 {
+    text-align: center;
+    padding: 3% 20% 0 10%;
+}
+
+.btn1 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.h1 {
+    text-align: center;
+}
+
+h1 {
+    padding: 5px 0 5px 0;
+    text-align: center;
+}
+
+.box {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 4% 20% 0 20%;
+}
+
+
+/*.box2{
+
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: 4%  30% 0 30%;
+  <a class="nav-link active" href="#">Registration</a>
+  <button class="btn btn-outline-success" >LinkSubmit</button>
+}*/
+
+.gate-p {
+    height: 100%;
+    width: 105%;
+}
+
+.nacc-img {
+    padding-top: 20%;
+}
+
+.nacc-admin {
+    padding-top: 20%;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.logo img {
+    max-width: 100%;
+    height: auto;
+}
+
+.image-container {
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container-admin {
+    border-radius: 2px;
+    transition: outline 0.6s linear;
+    margin: 0.5em;
+    margin: 5% 2% 2% 2%;
+    padding-bottom: 6%;
+    padding-left: 4%;
+    background-color: rgb(208, 241, 217);
+}
+
+.form-group {
+    padding-top: 20px;
+}
+
+.container-admin:hover {
+    outline-width: 10px;
+}
+
+.regi {
+    text-decoration: underline;
+}
+
+.regi1 {
+    text-decoration: underline;
+    padding-left: 3px;
+}
+
+.card-header {
+    margin-top: 4%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.form-control {
+    margin-left: 1%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+.b1 {}
+
+.b2 {
+    margin-top: 4%;
+    margin-left: 25%;
+}
+
+.card {
+    margin-top: 4%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.logo-img {
+    padding-top: 25%;
+}
+
+.logo-admin {
+    padding-top: 25%;
+}
+
+.glogo {
+    width: 450px;
+    height: 125px;
+}
+
+.form-select {
+    text-align: center;
+}
+
+
+/* Styling for Hero Section */
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+section h1 {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #683aa4;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+section p {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+button {
+    max-width: 50%;
+    border-radius: 50px !important;
+}
+
+#hero .col {
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+}
+
+#hero .img-col {
+    justify-content: flex-end;
+    margin-top: 100px;
+}
+
+#hero img {
+    max-width: 130%;
+    width: 130%;
+}
+
+
+/* Styling for the cards */
+
+#hero .card {
+    box-shadow: 5px 5px 10px #3c3b3b;
+    border: 0;
+    text-align: center;
+}
+
+#hero .cards .card {
+    width: 18rem;
+}
+
+
+/* Styling for icon if you add them */
+
+#hero .icon {
+    width: 130px;
+    height: 130px;
+    margin-bottom: 20px;
+}
+
+.navbar {
+    color: white;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#contact {
+    text-align: center;
+    background-color: #bdbbbb;
+    color: rgb(33, 24, 24);
+}
+
+#contact h1 {
+    text-align: center;
+    color: 683aa;
+}
+
+.glogo {
+    width: 450px;
+    height: 125px;
+}
